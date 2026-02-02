@@ -1,7 +1,8 @@
 {
   "items": [
     {"name": "espresso", "price": "2.50"},
-    {"name": "latte", "price": "3.30"},
-    {"name": "cappuccino", "price": "3.40"}
+    {"name": "latte", "price": "3.40"},
+    {"name": "cappuccino", "price": "3.40"},
+    {"name": "chai", "price": "3.10"}
   ]
 }
